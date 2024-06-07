@@ -1,8 +1,8 @@
 name = "week-13-offline"
 compatibility_date = "2023-12-01"
 
-# [vars]
-# MY_VARIABLE = "production_value"
+[vars]
+DATABASE_URL = "DATABASE_URL=prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiYTFhOWZhMmYtOTAzOC00ZTQxLWE5ZTgtOGRmNTJhZjJjNjEzIiwidGVuYW50X2lkIjoiNTQ5NDBkOTAyNzVmYjM2ZDE0NGExZTcyY2EwMmU4NDA3MjllN2JlNmI3NzNjZGYzNzkxYmViYzk4NDJhYzcwMCIsImludGVybmFsX3NlY3JldCI6ImE1Y2YyMDMwLWU3OTAtNGM5ZS1hZmQ3LWFjYzE1Nzk1OWEyNiJ9.W5b94O9qWgMNrNhEieKIfzE6XCO3Tp3wvF3WCHN5-Pk"
 
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
